@@ -1,5 +1,5 @@
 # Auto Respawn | Tricksplit.io
-Game: https://tricksplit.io/
+Game: https://tricksplit.io/ <br>
 Make your own Scripts: https://github.com/GModule/Tricksplit
 # 1.0.8
 ```js
